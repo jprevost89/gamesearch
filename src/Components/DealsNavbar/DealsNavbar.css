@@ -1,0 +1,28 @@
+.dealsNavbar{
+    position: fixed;
+    background-color: #f15125b7;
+    color: #191919a9;
+    width: 33vw;
+    height: 35px;
+    padding: 0;
+    margin-top: -6.45vh;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.dealsNavbar h3 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 25px;
+    padding: 5px;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+@media screen and (max-width: 981px) {
+    .dealsNavbar{
+        position: absolute;
+        width: 88.2vw;
+        height: 45px;
+    }
+}

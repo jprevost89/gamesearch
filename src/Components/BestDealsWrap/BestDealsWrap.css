@@ -1,0 +1,16 @@
+.bestDealsWrap {
+    height: 42vh;
+    width: 32vw;
+    position: relative;
+    padding:0;
+    margin-top: 38.7vh;
+    margin-left: 10px;
+}
+
+@media screen and (max-width: 981px) {
+    .bestDealsWrap {
+        margin-top: 5vh;
+        height: 65vh;
+        width: 88vw;
+    }
+}

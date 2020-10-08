@@ -1,0 +1,16 @@
+.search-wrap {
+    height: calc(100vh - 60px);
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+}
+
+@media screen and (max-width: 981px) {
+    .search-wrap {
+        height: 1200px;
+        width: 99.82%;
+        margin-left: 0;
+        margin-top: -3vh;
+        background-color: white;
+    }
+}

@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "name": "Genshin Impact",
+        "release": "09-28-2020",
+        "platform" : [
+            "PS4"
+        ],
+        "critic_score": "N/A",
+        "user_score": "7.7",
+        "price": "N/A",
+        "microtransaction": [
+            "free-to-play",
+            "Gatcha"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Fairy Tale",
+        "release": "07-31-2020",
+        "platform" : [
+            "PS4",
+            "Switch"
+        ],
+        "critic_score": "71/100",
+        "user_score": "5.6/10",
+        "price": "$60.00",
+        "microtransaction": [
+            "DLC"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Final Fantasy VII: Remake",
+        "release": "04-10-2020",
+        "platform" : [
+            "PS4"
+        ],
+        "critic_score": "87/100",
+        "user_score": "8.1/10",
+        "price": "$60.00",
+        "microtransaction": [
+            "DLC"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Final Fantasy XIV",
+        "release": "04-10-2020",
+        "platform" : [
+            "PS4"
+        ],
+        "critic_score": "87/100",
+        "user_score": "8.1/10",
+        "price": "$60.00",
+        "microtransaction": [
+            "DLC"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Ni No Kuni 2",
+        "release": "04-10-2020",
+        "platform" : [
+            "PS4"
+        ],
+        "critic_score": "87/100",
+        "user_score": "8.1/10",
+        "price": "$60.00",
+        "microtransaction": [
+            "DLC"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Ys VIII: Lacrimose of Dana",
+        "release": "04-10-2020",
+        "platform" : [
+            "PS4"
+        ],
+        "critic_score": "87/100",
+        "user_score": "8.1/10",
+        "price": "$60.00",
+        "microtransaction": [
+            "DLC"
+        ]
+    }
+]

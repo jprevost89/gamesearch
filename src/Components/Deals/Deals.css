@@ -1,0 +1,47 @@
+.deals {
+    background-color: #f1512528;
+    height:25vh;
+    width: 26.3vw;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    margin-left: 2.5vw;
+    font-size: 14px;
+    list-style: none;
+}
+
+.deals h3 {
+    font-size: 20px;
+    width:100%;
+    padding-top: 30px;
+    color: #191919a9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    margin: 0;
+    float: left;
+}
+ .deals p{
+     padding-left: 5px;
+     display: block;
+ }
+
+ .deals li{
+     float: left;
+     width: 40%;
+     padding:10px;
+     margin-top:-2px;
+ }
+
+ .deals h4{
+     margin-top: -20px;
+     height: 50px;
+ }
+
+ @media screen and (max-width: 981px) {
+     .deals {
+         width: 70vw;
+         height: 60vh;
+         margin-left: 4vw;
+     }
+ }
